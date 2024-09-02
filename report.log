@@ -1,0 +1,13 @@
+2022-10-16 19:06:17,371 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2022-10-16 19:09:20,684 - tensorflow - WARNING - From c:\users\admin\appdata\local\programs\python\python37\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2022-10-16 19:09:24,053 - tensorflow - WARNING - From c:\users\admin\appdata\local\programs\python\python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2022-10-16 19:15:14,438 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-10-16 19:16:30,059 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-10-16 19:17:42,712 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-10-16 19:18:39,801 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-10-16 19:19:03,410 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-10-16 19:19:23,653 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17459729448491157, best pos: [0 0 1 1 1 0 1 1 1 0 0 1 1 1 1 0 0 0 1 1 0 0 1 1 0 1 1 1 1 0 0 1 0 1 1]
+2022-10-16 19:33:31,913 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2022-10-16 19:33:52,735 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.16223517169614984, best pos: [0 0 1 1 1 0 1 1 0 1 1 0 0 1 1 1 0 0 1 1 1 0 0 1 0 1 1 0 1 1 0 1 1 1 0]
